@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @derivefromdata
-- 👀 I’m interested in Learning and Teaching about Data Engineering 
+- 👀 Building Smartstreamline Applications  
 - 
 
 <!---
